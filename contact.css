@@ -139,7 +139,7 @@ body{
 }
 
 .form-origin input{
-    color: #777;
+    color: black;
     font-size: 14px;
     border: 1px solid #e4e3e3;
     background-color: transparent;
@@ -160,7 +160,7 @@ body{
     padding: 20px;
     font-size: 14px;
     background-color: transparent;
-    color: #777;
+    color: black;
 
 }
 
