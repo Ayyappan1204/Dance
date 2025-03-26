@@ -86,7 +86,7 @@ body{
     text-decoration: none;
     font-size: 14px;
     font-weight: 600;
-    background-color: rgb(36, 193, 255);
+    background-color: transparent;
     transition: 0.2s ease;
 }
 
